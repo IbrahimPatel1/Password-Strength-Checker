@@ -35,6 +35,7 @@ This project helped me improve my Python programming skills and understand how b
 3. Run the program
 4. Enter a test password when prompted
 <img width="483" height="268" alt="image" src="https://github.com/user-attachments/assets/4dc8d9a4-8c30-4833-a7e4-72b270a7d809" />
+
 The image above shows the password checker running.
 ## Disclaimer
 
